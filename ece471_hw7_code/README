@@ -1,0 +1,34 @@
+ECE471 Fall 2019 -- HW7
+
+Name: Caleb Jewell
+
+4. Describe your something cool: Stores and prints the max and min temperatures after 15 
+seconds of data taken. 
+
+5.
+   a. I say this is a hard real-time task because if the brakes do not work in time it could cost someone their life if it is an urgrent situation. I would want my anti-lock brakes to 
+work everytime on time. 
+
+   b. I think this is a soft real-time task because it is just a radio if it misses its	
+deadline by a couple seconds it will not be a big deal, might cause annoyance.
+
+   c. I also think this is a soft real-time system because at most it will cost lag if misseda deadline but will not be fatal.
+
+   d. There is no standard and no error reporting
+
+   e. Has a full duplex and no speed limit. 
+
+   f. No this will not work since it is to far, spi only supports up to around 10 feet.
+
+   g. It is not fast enough.
+
+6.
+   a. When I type in the command nothing shows, I assume this command just "cancels" the
+command it is linked with.
+
+   b. The command filled up the memory so it could not execute.
+  
+   c. This could be useful to initialize data storage 
+  
+   d. I think dev/random acts as a random number generator that you could pipe with a command
+

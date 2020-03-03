@@ -1,0 +1,28 @@
+ECE 471 Fall 2019 -- Homework 3
+
+Name:Caleb Jewell
+
+Answer to Question #3a:
+
+#1: Loading the buffer into register r10
+
+#2: Pointing to the end of the buffer to increment backwards
+
+Describe your something cool: Incremented backwards from 15 to 0 
+
+Answer to Question #7:
+
+a. ARM: 616
+   THUMB: 596 
+   THUMB2: 596
+
+b. The size of the C executable is 5612 which is much larger than the assembly
+
+c. I would use assembly because you can speak to the hardware better and do 
+exatly what you want. The commands are also more efficient. In C the code you
+wrote then has to converted to assembly also.
+
+d. The C code was much easier and faster to write, just because I understand it better. 
+
+Answer to Question #8a: I think it is a bug but I do not know what is happening, its skipping two weeks...
+

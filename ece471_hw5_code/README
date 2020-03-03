@@ -1,0 +1,22 @@
+ECE471 HW5 -- Fall 2019
+
+Name: Caleb Jewell
+
+
+7. ECE471 scrolls on the board then goes off the board
+
+8.
+ a). The GPU of the rasberry pi is in charge of the initial bootup process and this is not normal for an ARM board.
+
+ b). It is a FAT32 filesystem because it is simple, the files are easy to access and a lot of others systems can run this because it is old.
+
+ c). The bootloader 
+
+ d). These addresses are skipped because they are reserved for specific components.
+
+9.
+ a). display_cool.c is 97 lines.
+
+ b). There are 70 different lines in display_test.c and display_final.c
+
+

@@ -1,0 +1,22 @@
+ECE471 HW#6 -- Fall 2019
+
+Name: Caleb Jewell
+
+
+5.	It shifts ECE 471 on to the board from the right and off the board on the left. 
+
+6.
+ a). We never use readSCL() so the full i2c is not being implenmented.  
+
+ b). If I pulled high or low if it is already set it might run into some problems
+
+7.
+ a). You use static in front of the function name
+
+ b). You enable it in the configure settings.
+
+8.
+ a). One interrupt was a CPU stop interrupt
+
+ b). It is used as a quick way to provide asnwers to a interactive script
+

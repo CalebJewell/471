@@ -1,0 +1,20 @@
+ECE471 Fall 2019 -- HW8
+
+Name: Caleb Jewell
+
+
+3. Describe your something cool: Prints the temperature in Fahrenheit
+
+
+4. a. To operate parasite power we need a strong pullup source like a mostfet because of the high current going through the cicuit.
+
+   b. I would use the 1-wire bus because the i2c and SPI bus cannot go as far as the 1-wire
+bus can which is about 300m.
+
+
+5. 
+   a. I just used the ECHO command and it worked when i ran my shell executable.
+
+
+
+
